@@ -34,6 +34,7 @@ const Elya = {
 - Contribute to open source projects
 
 <p align=left>
+  
 ### :grimacing: About me
 - :family: Mom of 2
 - :tv: Netflix and TedX addict
