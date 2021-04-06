@@ -72,6 +72,11 @@ What Human am I ? See my AssessFirst profile below :
 
 ### :newspaper: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Set a Google font as default in Flutter](https://joyful-code.com/set-a-google-font-as-default-in-flutter/)
+- [Thug UX](https://joyful-code.com/thug-ux/)
+- [WordPress – Fix “Does not redirect HTTP traffic to HTTPS”](https://joyful-code.com/wordpress-fix-does-not-redirect-http-traffic-to-https/)
+- [UX Christmas](https://joyful-code.com/ux-christmas/)
+- [The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time — Tom Cargill](https://joyful-code.com/tom-cargill-quote/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://joyful-code.com)
