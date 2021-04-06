@@ -46,7 +46,7 @@ I'm interrested in Static Site Generators, accessibility, responsible and green 
 
 What Human am I ? See my AssessFirst profile below :
 
-[![Website](https://img.shields.io/website?label=AssessFirst&style=flat&url=https://app.assessfirst.com/_/profile/iqf5emld-elya-a-palma)]([https://app.assessfirst.com/_/profile/iqf5emld-elya-a-palma)
+[![Website](https://img.shields.io/website?label=AssessFirst&color=FA6607&style=flat&url=https://app.assessfirst.com/_/profile/iqf5emld-elya-a-palma)](https://app.assessfirst.com/_/profile/iqf5emld-elya-a-palma)
 </p>
 
 <img align="right" width=300px alt="Spread Love" src="https://media.giphy.com/media/RM0Csu9TY1yqyyqvwR/giphy.gif" />
