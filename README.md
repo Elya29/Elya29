@@ -22,7 +22,7 @@ const Elya = {
 ```
 
 ### :mortar_board: What I'm currently learning :
-- Flutter, Node.js, React/React Native, Docker, TDD and CI at the Wild Code School for a year.
+- Flutter, Node.js, React/React Native, Typescript, Docker, TDD and CI at the Wild Code School for a year.
 - UI/UX Design with pratice and mentorship.
 - Clean code / good practices
 - GraphQL, Next.js and Jamstack as a hobby on my free time.
