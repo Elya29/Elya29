@@ -73,11 +73,11 @@ What Human am I ? See my AssessFirst profile below :
 
 ### :newspaper: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Dart asynchronous : hello event loop](https://joyful-code.com/making-dart-asynchronous-hello-event-loop/)
 - [How to update WSL2](https://joyful-code.com/how-to-update-wsl2/)
 - [Set a Google font as default in Flutter](https://joyful-code.com/set-a-google-font-as-default-in-flutter/)
 - [Thug UX](https://joyful-code.com/thug-ux/)
 - [WordPress – Fix “Does not redirect HTTP traffic to HTTPS”](https://joyful-code.com/wordpress-fix-does-not-redirect-http-traffic-to-https/)
-- [UX Christmas](https://joyful-code.com/ux-christmas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://joyful-code.com)
