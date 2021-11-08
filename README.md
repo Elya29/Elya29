@@ -75,7 +75,7 @@ What Human am I ? See my AssessFirst profile below :
 <!-- BLOG-POST-LIST:START -->
 - [Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live  — Jeff Atwood](https://joyful-code.com/always-code-as-if-the-guy-who-ends-up-maintaining-your-code-will-be-a-violent-psychopath-who-knows-where-you-live-jeff-attwood/)
 - [How to install Firefox Developer Edition on Linux Mint](https://joyful-code.com/how-to-install-firefox-developer-edition-on-linux-mint/)
-- [Dart custom getters (and how to compute data in your models)](https://joyful-code.com/dart-custom-getters-and-how-to-compute-data-in-your-models/)
+- [Dart custom getters &lpar;and how to compute data in your models&rpar;](https://joyful-code.com/dart-custom-getters-and-how-to-compute-data-in-your-models/)
 - [Making Dart asynchronous : hello event loop](https://joyful-code.com/making-dart-asynchronous-hello-event-loop/)
 - [How to update WSL2](https://joyful-code.com/how-to-update-wsl2/)
 <!-- BLOG-POST-LIST:END -->
