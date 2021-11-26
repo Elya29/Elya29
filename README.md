@@ -73,11 +73,11 @@ What Human am I ? See my AssessFirst profile below :
 
 ### :newspaper: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler](https://joyful-code.com/any-fool-can-write-code-that-a-computer-can-understand-good-programmers-write-code-that-humans-can-understand-martin-fowler/)
 - [Install QT on Linux Mint : the short way](https://joyful-code.com/install-qt-on-linux-mint-the-short-way/)
 - [Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live  — Jeff Atwood](https://joyful-code.com/always-code-as-if-the-guy-who-ends-up-maintaining-your-code-will-be-a-violent-psychopath-who-knows-where-you-live-jeff-attwood/)
 - [How to install Firefox Developer Edition on Linux Mint](https://joyful-code.com/how-to-install-firefox-developer-edition-on-linux-mint/)
 - [Dart custom getters &lpar;and how to compute data in your models&rpar;](https://joyful-code.com/dart-custom-getters-and-how-to-compute-data-in-your-models/)
-- [Making Dart asynchronous : hello event loop](https://joyful-code.com/making-dart-asynchronous-hello-event-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://joyful-code.com)
