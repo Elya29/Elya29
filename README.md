@@ -5,7 +5,6 @@
 
 ##  :wave: Hi, I'm Alex, aka Elya
 [![Website](https://img.shields.io/website?label=Joyful-Code.com&color=80009A&style=flat&url=https://joyful-code.com)](https://joyful-code.com)
-[![Website](https://img.shields.io/website?label=Ajna-Design.fr&color=FA6607&style=flat&url=https://joyful-code.com)](https://ajna-design.fr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/joyful_Code?color=6607FA&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoyful_code&screen_name=joyful_code)
 </p>
 
@@ -22,16 +21,17 @@ const Elya = {
 ```
 
 ### :mortar_board: What I'm currently learning :
-- Flutter, Node.js, React/React Native, Typescript, Docker, TDD and CI at the Wild Code School for a year.
+- Flutter, Node.js, React/React Native, Typescript, GraphQL, Docker, TDD and CI at the Wild Code School for a year.
 - UI/UX Design with pratice and mentorship.
+- UI/UX design, Flutter, QT Quick / QML in my job
 - Clean code / good practices
-- GraphQL, Next.js and Jamstack as a hobby on my free time.
+- C++ and Jamstack as a hobby on my free time.
 
 ### :muscle: My goals for 2021/2022
 - Pass my degrees
 - learn more about 3D and creative coding (I'd LOVE to learn Three.js but I need more time in a day to do so... It's on my todo list.)
 - learn more about serverless
-- Contribute to open source projects
+- Contribute to open source projects...
 
 <p align=left>
   
