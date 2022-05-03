@@ -16,7 +16,7 @@ const Alex = {
   nationality: "French",
   situation: "married",
   children: 2,
-  nickname: Elya
+  nickname: "Elya"
 }
 ```
 
