@@ -8,30 +8,27 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/joyful_Code?color=6607FA&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoyful_code&screen_name=joyful_code)
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a French developper and UX Designer.
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a French front end developper.
 
 ```javascript
-const Elya = {
+const Alex = {
   pronouns: "she" | "her",
   nationality: "French",
-  age: 38,
   situation: "married",
   children: 2,
+  nickname: Elya
 }
 ```
 
-### :mortar_board: What I'm currently learning :
-- Flutter, Node.js, React/React Native, Typescript, GraphQL, Docker, TDD and CI at the Wild Code School for a year.
-- UI/UX Design with pratice and mentorship.
-- UI/UX design, Flutter, QT Quick / QML in my job
-- Clean code / good practices
-- C++ and Jamstack as a hobby on my free time.
-
-### :muscle: My goals for 2021/2022
-- Pass my degrees
-- learn more about 3D and creative coding (I'd LOVE to learn Three.js but I need more time in a day to do so... It's on my todo list.)
-- learn more about serverless
-- Contribute to open source projects...
+### :mortar_board: What I'm interested in :
+- Javascript, Flutter
+- UX Design
+- Devops
+- Clean code / Craftmanship
+- GreenIT
+- Accessibility
+- Jamstack
+- Creative coding
 
 <p align=left>
   
@@ -40,14 +37,10 @@ const Elya = {
 - :tv: Netflix and TedX addict
 - :books: Bookworm
 - :cat2: cats / :dog2: husky lover
-- :deciduous_tree: I like to hug the trees and walk in the forest
+- :deciduous_tree: I like to hug the trees and walk in the forest or on the beach at sunset ☀️ 
 
 I like to create immersive UIs, I really love creative coding. I also love to understand the users' needs and create inclusive and accessible products designed for them.
 I'm interrested in Static Site Generators, accessibility, responsible and green designs... To make the web a better place for every Human :green_heart:
-
-What Human am I ? See my AssessFirst profile below :
-
-[![Website](https://img.shields.io/website?label=AssessFirst&color=FA6607&style=flat&url=https://app.assessfirst.com/_/profile/iqf5emld-elya-a-palma)](https://app.assessfirst.com/_/profile/iqf5emld-elya-a-palma)
 </p>
 
 <img align="right" width=300px alt="Spread Love" src="https://media.giphy.com/media/RM0Csu9TY1yqyyqvwR/giphy.gif" />
