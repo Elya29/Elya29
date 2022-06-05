@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/joyful_Code?color=6607FA&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoyful_code&screen_name=joyful_code)
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I'm a French front end developper.
+## I'm a French front end developper.
 
 ```javascript
 const Alex = {
