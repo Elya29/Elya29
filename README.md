@@ -1,6 +1,3 @@
-<img align="right" width=200px alt="Women In Tech" src="https://media.giphy.com/media/1YbB4e1vZ1IUekJ0pr/giphy.gif" />
-<br/>
-
 <p align=left>
 
 ##  :wave: Hi, I'm Alex, aka Elya
