@@ -18,13 +18,11 @@ const Alex = {
 ```
 
 ### :mortar_board: What I'm interested in :
-- Javascript, Flutter
+- Javascript / React / Vue, Flutter
 - UX Design
-- Devops
 - Clean code / Craftmanship
 - GreenIT
 - Accessibility
-- Jamstack
 - Creative coding
 
 <p align=left>
@@ -37,7 +35,7 @@ const Alex = {
 - :deciduous_tree: I like to hug the trees and walk in the forest or on the beach at sunset ☀️ 
 
 I like to create immersive UIs, I really love creative coding. I also love to understand the users' needs and create inclusive and accessible products designed for them.
-I'm interrested in Static Site Generators, accessibility, responsible and green designs... To make the web a better place for every Human :green_heart:
+I'm interrested in accessibility, responsible and green designs... To make the web a better place for every Human :green_heart:
 </p>
 
 <img align="right" width=300px alt="Spread Love" src="https://media.giphy.com/media/RM0Csu9TY1yqyyqvwR/giphy.gif" />
