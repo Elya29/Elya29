@@ -18,7 +18,7 @@ const Alex = {
 ```
 
 ### :mortar_board: What I'm interested in :
-- Javascript / React / Vue, Flutter
+- JS / React / Vue / Next / Astro / Flutter... ok, let's say "front end development".
 - UX Design
 - Clean code / Craftmanship
 - GreenIT
