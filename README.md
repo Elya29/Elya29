@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/joyful_Code?color=6607FA&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoyful_code&screen_name=joyful_code)
 </p>
 
-## I'm a French front end developper.
+## I'm a French front end developper working at Zenika.
 
 ```javascript
 const Alex = {
@@ -18,9 +18,9 @@ const Alex = {
 ```
 
 ### :mortar_board: What I'm interested in :
-- JS / React / Vue / Next / Astro / Flutter... ok, let's say "front end development".
-- UX Design
-- Clean code / Craftmanship
+- TS / JS / React / Vue / Flutter... ok, let's say "front end development".
+- UI/UX Design
+- Clean code / Craftsmanship
 - GreenIT
 - Accessibility
 - Creative coding
@@ -29,12 +29,11 @@ const Alex = {
   
 ### :grimacing: About me
 - :family: Mom of 2
-- :tv: Netflix and TedX addict
 - :books: Bookworm
 - :cat2: cats / :dog2: husky lover
-- :deciduous_tree: I like to hug the trees and walk in the forest or on the beach at sunset ☀️ 
+- :deciduous_tree: I love nature and tree hugs
 
-I like to create immersive UIs, I really love creative coding. I also love to understand the users' needs and create inclusive and accessible products designed for them.
+I like to create immersive UIs, I really love creative coding. I like to understand the users' needs and create inclusive and accessible products designed for them.
 I'm interrested in accessibility, responsible and green designs... To make the web a better place for every Human :green_heart:
 </p>
 
@@ -43,18 +42,17 @@ I'm interrested in accessibility, responsible and green designs... To make the w
 ### :wrench: Tools and langages
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=1572B6)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1572B6)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs))&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
