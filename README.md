@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/joyful_Code?color=6607FA&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoyful_code&screen_name=joyful_code)
 </p>
 
-## I'm a French front end developper working at Zenika.
+## I'm a French front end developper and tech speaker working at Zenika.
 
 ```javascript
 const Alex = {
@@ -23,6 +23,7 @@ const Alex = {
 - Clean code / Craftsmanship
 - GreenIT
 - Accessibility
+- Inclusion
 - Creative coding
 
 <p align=left>
