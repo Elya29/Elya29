@@ -1,8 +1,6 @@
 <p align=left>
 
 ##  :wave: Hi, I'm Alex, aka Elya
-[![Website](https://img.shields.io/website?label=Joyful-Code.com&color=80009A&style=flat&url=https://joyful-code.com)](https://joyful-code.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/joyful_Code?color=6607FA&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoyful_code&screen_name=joyful_code)
 </p>
 
 ## I'm a French front end developper and tech speaker working at Zenika.
@@ -57,14 +55,3 @@ I'm interrested in accessibility, responsible and green designs... To make the w
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-
-### :newspaper: Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler](https://joyful-code.com/any-fool-can-write-code-that-a-computer-can-understand-good-programmers-write-code-that-humans-can-understand-martin-fowler/)
-- [Install QT on Linux Mint : the short way](https://joyful-code.com/install-qt-on-linux-mint-the-short-way/)
-- [Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live  — Jeff Atwood](https://joyful-code.com/always-code-as-if-the-guy-who-ends-up-maintaining-your-code-will-be-a-violent-psychopath-who-knows-where-you-live-jeff-attwood/)
-- [How to install Firefox Developer Edition on Linux Mint](https://joyful-code.com/how-to-install-firefox-developer-edition-on-linux-mint/)
-- [Dart custom getters &lpar;and how to compute data in your models&rpar;](https://joyful-code.com/dart-custom-getters-and-how-to-compute-data-in-your-models/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://joyful-code.com)
