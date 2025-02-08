@@ -55,3 +55,7 @@ I'm interrested in accessibility, responsible and green designs... To make the w
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
+### Blog
+
+When I'm not working, I write about coding for kids [right here on Lemon Squeezy](https://elya29.github.io/lemon-squeezy/)
